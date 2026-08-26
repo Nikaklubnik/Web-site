@@ -1,4 +1,4 @@
 # Web-site King Auto
 
-Visit this site:
-https://nikaklubnik.github.io/Web-site/
+Visit this web-site:
+[King Auto](https://nikaklubnik.github.io/Web-site/)
